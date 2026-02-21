@@ -7,6 +7,7 @@ dependencies = [
     "linkml-asciidoc-generator @ git+https://github.com/Netbeheer-Nederland/linkml-asciidoc-generator.git@v0.5.0",
     "gen-linkml-profile @ git+https://github.com/Netbeheer-Nederland/gen-linkml-profile.git",
     "check-jsonschema (>=0.31.0,<0.32.0)",
+    "pyshacl (>=0.31.0,<0.32.0)",
 ]
 
 [tool.poetry]
