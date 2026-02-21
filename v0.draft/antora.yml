@@ -1,0 +1,6 @@
+name: dp-object
+version: v0.draft
+title: Object Register
+nav:
+- modules/ROOT/nav.adoc
+- modules/schema/nav.adoc

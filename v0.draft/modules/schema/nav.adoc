@@ -1,0 +1,26 @@
+[.truncate]
+* Information model
+** xref::index.adoc[Index]
+** Classes
+*** xref::class/GeographicalRegion.adoc[GeographicalRegion (root)]
+
+*** xref::class/BaseVoltage.adoc[BaseVoltage]
+
+
+
+
+*** xref::class/IdentifiedObject.adoc[IdentifiedObject]
+
+
+
+*** xref::class/SubGeographicalRegion.adoc[SubGeographicalRegion]
+
+
+
+** CIM data types
+*** xref::class/Voltage.adoc[Voltage]
+
+
+** Enumerations
+*** xref::enumeration/UnitMultiplier.adoc[UnitMultiplier]
+*** xref::enumeration/UnitSymbol.adoc[UnitSymbol]
