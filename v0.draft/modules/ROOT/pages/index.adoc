@@ -102,4 +102,4 @@ classes: {
 == Additional artifacts
 
 * xref:schema:attachment$schemas/json_schema/dp_object.json_schema.json[JSON schema]
-* xref:schema:attachment$examples/dp_object.example.json[Example JSON instance data]
+* xref:schema:attachment$examples/jsonld/dp_object.example.jsonld[Object Register JSON-LD]
