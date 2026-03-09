@@ -3,12 +3,13 @@
     "linkml": "https://w3id.org/linkml/",
     "cbs": "https://www.cbs.nl/nl-nl/onze-diensten/methoden/begrippen/",
     "cim": "https://cim.ucaiug.io/ns#",
+    "dcterms": "http://purl.org/dc/terms/",
     "eu": "https://cim.ucaiug.io/ns/eu#",
+    "github": "https://github.com/",
     "nbnl": "https://begrippen.netbeheernederland.nl/energiesysteembeheer/nl/page/",
     "nl": "https://cim.ucaiug.io/ns/nl#",
     "skos": "http://www.w3.org/2004/02/skos/core#",
-    "xsd": "http://www.w3.org/2001/XMLSchema#",
-    "github": "https://github.com/"
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
   },
   "@id": "urn:uuid:5bdf9a6d-ef38-4c4d-a6ee-42a9accdec64",
   "dcterms:issued": {
